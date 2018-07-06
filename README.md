@@ -9,4 +9,4 @@ This is a multi-page website that is cross-platform repsonsive, showcasing the f
     * Modals
     
 ## Here's a link to the website (Deployed on Heroku)
-[Appear](https://my-travel-site1.herokuapp.com/index.html "Appear")
+[Appear](https://appearsite.herokuapp.com/index.html "Appear")
